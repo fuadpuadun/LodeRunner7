@@ -16,6 +16,8 @@ void generateStage(int stage, int arr[30][30]); //memasukkan nilai ke dalam matr
 //5=pintu keluzr
 //6=bot
 
+//Naonwae lah
+
 void insertPlayer(int x,int y);//memasukkan player ke dalam matriks[x][y]
 void insertBot(int x, int y);//memasukkan bot ke dalam matriks[x][y]
 
